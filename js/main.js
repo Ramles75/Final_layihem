@@ -63,7 +63,7 @@ document.getElementById("paymentForm").addEventListener("submit", function (e) {
         addressError.style.display = "none";
     }
 
-    if (!cardNumber.value.match(/^\d{8}$/)) {
+    if (!cardNumber.value.match(/^\d{16}$/)) {
         isValid = false;
     } else {
         cardNumberError.style.display = "none";
