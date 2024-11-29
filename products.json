@@ -1,0 +1,770 @@
+[
+    {
+        "id": 1,
+        "name": "DUVO plus+ (regular menu)",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/duvo-plus/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 2,
+        "name": "DUVO plus+ (variety menu)",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/duvo-plus/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 3,
+        "name": "PURINA Felix - KITTEN ORIGINAL",
+        "price": "$15.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-felix/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 4,
+        "name": "PURINA Felix - as GOOD as it LOOKS",
+        "price": "$23.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-felix/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 5,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 6,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 7,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 8,
+        "name": "PURINA PRO PLAN - KITTEN",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 9,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$39.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 10,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 11,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/purina-pro-plan/food7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 12,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$24.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 13,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$39.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 14,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 15,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$15.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 16,
+        "name": "ROYAL CANIN - KITTEN",
+        "price": "$13.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 17,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 18,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$39.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 19,
+        "name": "ROYAL CANIN - MOTHER & BABYCAT",
+        "price": "$45.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food8.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 20,
+        "name": "ROYAL CANIN - DIGESTIVE",
+        "price": "$13.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 21,
+        "name": "ROYAL CANIN - DIGESTIVE",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/cat-product/food/royal-canin/food10.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 22,
+        "name": "ACANA - WILD ATLANTIC",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 23,
+        "name": "ACANA - WHOLESOME GRAINS",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 24,
+        "name": "ACANA - WHOLESOME GRAINS",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 25,
+        "name": "ACANA - FREEZE & DRIED",
+        "price": "$39.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 26,
+        "name": "ACANA - BUTCHER'S FAVORITES",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 27,
+        "name": "ACANA - FREEZE & DRIED",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 28,
+        "name": "ACANA - FREEZE & DRIED",
+        "price": "$23.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food8.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 29,
+        "name": "ACANA - FREEZE & DRIED",
+        "price": "$21.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 30,
+        "name": "ACANA - LIGHT & FIT",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/acana/food10.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 31,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 32,
+        "name": "PURINA PRO PLAN - PUPPY",
+        "price": "$17.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 33,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 34,
+        "name": "ACANA - BUTCHER'S FAVORITES",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 35,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$15.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 36,
+        "name": "PURINA PRO PLAN - ADULT",
+        "price": "$23.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 37,
+        "name": "PURINA PRO PLAN - MULTI CARE",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 38,
+        "name": "PURINA PRO PLAN - PUPPY",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food8.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 39,
+        "name": "PURINA PRO PLAN - ACTIVE 27/17",
+        "price": "$39.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/purina-pro-plan/food9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 40,
+        "name": "REFLEX Plus+ (ADULT)",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 41,
+        "name": "REFLEX Plus+ (ADULT)",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 42,
+        "name": "REFLEX Plus+ (ADULT)",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 43,
+        "name": "REFLEX Plus+ (ADULT)",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 44,
+        "name": "REFLEX Plus+ (ADULT)",
+        "price": "$23.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 45,
+        "name": "REFLEX Plus+ (JUNIOR)",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food7.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 46,
+        "name": "REFLEX Plus+ (CHICKEN)",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food8.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 47,
+        "name": "REFLEX Plus+ (BEEF)",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food9.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 48,
+        "name": "REFLEX Plus+ (LAMB & RICE)",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/reflex/food10.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 49,
+        "name": "ROYAL CANIN - PUPPY",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 50,
+        "name": "ROYAL CANIN - MEDIUM",
+        "price": "$19.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 51,
+        "name": "ROYAL CANIN - SMALL/PETIT",
+        "price": "$15.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 52,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$24.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 53,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 54,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$29.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 55,
+        "name": "ROYAL CANIN - ADULT",
+        "price": "$25.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food8.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 56,
+        "name": "ROYAL CANIN - PUPPY",
+        "price": "$23.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 57,
+        "name": "ROYAL CANIN - PUPPY",
+        "price": "$31.99",
+        "category":"food",
+        "image": "./images/pet-product/dog-product/food/royal-canin/food10.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 58,
+        "name": "Cat Toy with Exercise Balls Teaser Mouse",
+        "price": "$12.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 59,
+        "name": "Migipaws Cat Toy",
+        "price": "$15.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 60,
+        "name": "21 Pcs Cat Toys for Indoor Cats",
+        "price": "$21.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 61,
+        "name": "Teaser Wand Ball Toy for Kitten Cats",
+        "price": "$16.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 62,
+        "name": "Potaroma Cat Toys 3in1",
+        "price": "$19.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 63,
+        "name": "Cat Scratcher Toy",
+        "price": "$11.99",
+        "category":"toy",
+        "image": "./images/pet-product/cat-product/toys/toy6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 64,
+        "name": "Dog Toys for Aggressive Chewers",
+        "price": "$9.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 65,
+        "name": "DOG TOY - Food & Game together",
+        "price": "$9.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 66,
+        "name": "Pack of 3 chew rope toys for dogs",
+        "price": "$9.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 67,
+        "name": "Interactive dog toy ball",
+        "price": "$13.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 68,
+        "name": "Squeaky Balls for Medium Large Dogs",
+        "price": "$6.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 69,
+        "name": "Interactive dog toy ball",
+        "price": "$13.99",
+        "category":"toy",
+        "image": "./images/pet-product/dog-product/toys/toy6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 70,
+        "name": "20 inches Cat Bed Machine Washable",
+        "price": "$29.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 71,
+        "name": "Fostanfly Cat Cave Beds for Indoor Cats",
+        "price": "$49.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 72,
+        "name": "Self-Warming Cat Beds for Indoor Cats",
+        "price": "$23.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 73,
+        "name": "Cat Bed Pet Basket Cozy Kitten",
+        "price": "$23.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 74,
+        "name": "Cat Bed Soft Textile Cotton",
+        "price": "$24.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 75,
+        "name": "Cat Bed Cave with non-collapsed",
+        "price": "$19.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 76,
+        "name": "Cat Tunnels with Ventilated Window for Indoor Cats",
+        "price": "$29.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed7.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 77,
+        "name": "Cat Beds for Indoor Cats Donut Bed",
+        "price": "$24.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed8.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 78,
+        "name": "Handmade Cat Cave",
+        "price": "$29.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed9.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 79,
+        "name": "Cat Sofa Beds for Indoor Cats",
+        "price": "$24.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/bed10.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 80,
+        "name": "Cat Tree Large Cat Tower for Indoor Cats",
+        "price": "$25.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/cat-tree.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 81,
+        "name": "Cat Tree for Indoor Cats Modern Cat Tree",
+        "price": "$23.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/cat-tree2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 82,
+        "name": "All-in-One Cat Tower with Cat Scratching Post",
+        "price": "$26.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/cat-tree3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 83,
+        "name": "Cat Tower with Scratching Posts and Board",
+        "price": "$26.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/cat-tree4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 84,
+        "name": "Tree Cat Tower with Sisal - Covered",
+        "price": "$23.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/cat-tree5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 85,
+        "name": "Outdoor Heated Cat Bowl Large Capacity",
+        "price": "$14.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/water-food.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 86,
+        "name": "Stainless Steel Cat Food Bowl",
+        "price": "$19.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/water-food2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 87,
+        "name": "Cat Bowl Snacker 1.5L",
+        "price": "$17.99",
+        "category":"bed",
+        "image": "./images/pet-product/cat-product/bed/water-food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 88,
+        "name": "Dog Beds Durable & Breathable",
+        "price": "$23.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/bed1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 89,
+        "name": "Dog Beds for Large Dogs",
+        "price": "$39.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/bed2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 90,
+        "name": "Washable Dog Bed Comfortable Pet Bed",
+        "price": "$29.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/bed3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 91,
+        "name": "Dog Beds for Large Dogs, Rectangle Washable",
+        "price": "$35.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/bed5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 92,
+        "name": "Double 850 ml Dog Bowl - Ceramic Bowl",
+        "price": "$9.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/water-food.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 93,
+        "name": "Basics Stainless Steel Dog Bowl",
+        "price": "$6.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/water-food2.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 94,
+        "name": "Folding Dog Bowls Stand",
+        "price": "$29.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/water-food3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 95,
+        "name": "Food and water bowl for dog",
+        "price": "$15.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/water-food4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    },
+    {
+        "id": 96,
+        "name": "Adjustable Double Stand Bowl",
+        "price": "$34.99",
+        "category":"bed",
+        "image": "./images/pet-product/dog-product/bed/water-food5.webp",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis necessitatibus provident, consectetur delectus sunt ullam dolorum excepturi? Repudiandae quod veritatis laboriosam in, cumque laudantium odit aliquam, illum vel saepe quasi? Accusamus sed sint incidunt autem non, mollitia quae eum adipisci quam nesciunt explicabo voluptates ad cum unde minima aut in labore debitis pariatur a nobis. Repellendus aperiam at fuga pariatur."
+    }
+]

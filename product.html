@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="images/favicon.ico" href="./images/favicon.ico">
+    <title>MyPet</title>
+
+    <!-- Google-Font-link -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+
+    <!-- Bootstrap-link -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.1.3/dist/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+
+    <!-- Font-Awesome-link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <!-- CSS-link -->
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./payment.css">
+
+
+    <style>
+        #featured>div.row.mx-auto.container>nav>ul>li.page-item.active>a {
+            background-color: black;
+        }
+
+        #featured>div.row.mx-auto.container>nav>ul>li:nth-child(n):hover>a {
+            background-color: coral;
+            color: white;
+        }
+
+        .pagination a {
+            color: black;
+        }
+    </style>
+
+
+</head>
+
+<body>
+    <!-- HEADER -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light py-3 fixed-top">
+            <div class="container">
+                <a class="navbar-brand" href="#"><i class="fa-solid fa-paw" id="i"></i>MyPet</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span><i id="bar" class="fa-solid fa-bars"></i></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="./index.html">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#">Product</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./blog.html">Blog</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./contact.html">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <i class="fa-solid fa-bag-shopping"></i>
+                        </li>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <!-- MAIN -->
+    <main>
+        <!-- PRODUCTS -->
+        <section id="featured" class="my-5 py-5">
+
+            <!-- Filtr hissesi -->
+            <div class="wrapper">
+                <div class="category-filter">
+                    <div class="filter-container">
+                        <div class="filter-title">
+                            <h2>Product Filter</h2>
+                        </div>
+
+                        <div class="filter-btns">
+                            <button type="button" class="filter-btn" data-category="food" id="food">FOOD</button>
+                            <button type="button" class="filter-btn" data-category="toy" id="toy">TOY</button>
+                            <button type="button" class="filter-btn" data-category="bed" id="bed">BED</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <!-- Filtr hissesinin sonu -->
+
+            <div class="container mt-5 py-5">
+                <h2 class="font-weight-bold">Our Products</h2>
+                <hr>
+                <p>Here you can check out our new products with fair price on "MyPet"</p>
+            </div>
+            <div class="row mx-auto container productBase">
+                <!-- Fetch Api -->
+            </div>
+            
+
+
+            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="payment.css">
+    <title>Products</title>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <!-- Navigasyon -->
+    </header>
+
+    <!-- Mehsul siyahisi -->
+    <main class="productBase">
+        
+    </main>
+
+    <!-- Ödeme Modalı -->
+    <div id="paymentModal" class="modal">
+        <div class="modal-content">
+            <div class="payment">
+                <h1 class="payTitle">Personal Information</h1>
+                <form class="paymentForm" action="">
+                    <label>Name and Surname</label>
+                    <br>
+                    <input type="text" placeholder="Seyidov Elmar" class="payInput" required>
+                    <br>
+                    <label>Phone Number</label>
+                    <br>
+                    <input type="text" placeholder="(994) 12 345 67 89" class="payInput" required>
+                    <br>
+                    <label>Address</label>
+                    <br>
+                    <input type="text" placeholder="123 STREET NAME, CITY, AZERBAIJAN" class="payInput" required>
+                    <br>
+                    <h1 class="payTitle">Card Information</h1>
+                    <div class="cardIcons">
+                        <img src="./images/visa.png" width="40" alt="" class="cardIcon">
+                        <img src="./images/master.png" width="40" alt="" class="cardIcon">
+                    </div>
+                    <input type="password" class="payInput" placeholder="Card Number" required>
+                    <div class="cardInfo">
+                        <input type="text" placeholder="mm" class="payInput sm" required>
+                        <input type="text" placeholder="yyyy" class="payInput sm" required>
+                        <input type="text" placeholder="cvv" class="payInput sm" required>
+                    </div>
+                    <button class="payButton">Checkout!</button>
+                </form>
+                <span class="close">&times;</span>
+            </div>
+        </div>
+    </div>
+
+        </section>
+
+
+    </main>
+
+
+    <!-- FOOTER -->
+    <footer class="mt-5 py-5">
+        <div class="row container mx-auto pt-5">
+            <div class="footer-one col-lg-3 col-md-6 col-12">
+                <a id="foot-logo" href="#"><i class="fa-solid fa-paw"></i>MyPet</a>
+                <p class="pt-3">MyPet is the trusted pet store offering the highest quality products for your little
+                    friends. If you
+                    are looking for the best for your friends, you are in the right place!</p>
+            </div>
+            <div class="footer-one col-lg-3 col-md-6 col-12 mb-3">
+                <h5 class="pb-2">Featured</h5>
+                <ul class="text-uppercase list-unstyled">
+                    <li><a href="#">Cats</a></li>
+                    <li><a href="#">Dogs</a></li>
+                    <li><a href="#">New Arrivals</a></li>
+                    <li><a href="#">Beds & other items</a></li>
+                    <li><a href="#">Foods</a></li>
+                    <li><a href="#">Toys</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-one col-lg-3 col-md-6 col-12">
+                <h5 class="pb-2">Contact Us</h5>
+                <div>
+                    <h6 class="text-uppercase">Address</h6>
+                    <p>123 STREET NAME, CITY, AZERBAIJAN</p>
+                </div>
+                <div>
+                    <h6 class="text-uppercase">Phone</h6>
+                    <p>(994) 12-345-67-89</p>
+                </div>
+                <div>
+                    <h6 class="text-uppercase">Email</h6>
+                    <p>MAIL@EXAMPLE.COM</p>
+                </div>
+            </div>
+
+            <div class="footer-one col-lg-3 col-md-6 col-12">
+                <h5 class="pb-2">Instagram</h5>
+                <div class="row">
+                    <img id="instagram-photo" class="img-fluid w-25 h-100 m-2"
+                        src="./images/pet-product/cat-product/bed/bed10.jpg" alt="photo">
+                    <img id="instagram-photo" class="img-fluid w-25 h-100 m-2"
+                        src="./images/pet-product/dog-product/toys/toy3.jpg" alt="photo">
+                    <img id="instagram-photo" class="img-fluid w-25 h-100 m-2"
+                        src="./images/pet-product/dog-product/bed/bed2.jpg" alt="photo">
+                    <img id="instagram-photo" class="img-fluid w-25 h-100 m-2"
+                        src="./images/pet-product/cat-product/toys/toy5.jpg" alt="photo">
+                    <img id="instagram-photo" class="img-fluid w-25 h-100 m-2"
+                        src="./images/pet-product/cat-product/food/duvo-plus/food2.jpg" alt="photo">
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright mt-5">
+            <div class="row container mx-auto">
+                <div class="col-lg-3 col-md-6 col-12 mb-4">
+                    <img src="./images/footer-advertising-part/payment.png" alt="payment-methods">
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-12 text-nowrap mb-2">
+                    <p>Copyright © 2024. All Rights Reserved.</p>
+                </div>
+
+                <div class="col-lg-4 col-md-6 col-12">
+                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                    <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                    <a href="#"><i class="fa-brands fa-linkedin-in"></i></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <button id="back-to-top"><i class="fas fa-arrow-up"></i></button>
+
+
+
+
+    <script src="./js/product.js"></script>
+
+    <script src="./js/filter.js"></script>
+
+    <script src="./js/backtotop.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
+        integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
+        integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
